@@ -1,0 +1,9 @@
+{
+  "include": ["."],
+  "extraPaths": [".", "./routers"],
+  "pythonVersion": "3.11",
+  "typeCheckingMode": "off",
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": "none",
+  "reportUndefinedVariable": "none"
+}
